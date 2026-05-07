@@ -1,0 +1,22 @@
+# FastAPI core
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+
+# Config
+python-dotenv==1.0.1
+
+# Kafka
+kafka-python==2.0.2
+
+# Databricks
+databricks-sql-connector==4.2.6
+
+# Data validation
+pydantic==2.7.4
+
+# HTTP client (test + async support)
+httpx==0.27.0
+requests==2.32.3
+
+# typing stability
+typing-extensions==4.12.2
