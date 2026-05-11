@@ -48,3 +48,5 @@ services:
 
     environment:
       - KAFKA_BROKER=kafka:9092
+
+    command: python -u api/kafka_consumer.py
