@@ -195,4 +195,5 @@ Aspiring Data Engineer | Kafka | Streaming Systems | Backend Architecture
 ✔ Kafka event system working  
 ✔ Fully containerized microservices  
 ✔ Databricks integration ready  
-✔ Portfolio-ready (FAANG-level foundation)
+
+
